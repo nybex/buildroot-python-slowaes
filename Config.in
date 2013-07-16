@@ -1,0 +1,4 @@
+config BR2_PACKAGE_PYTHON_SLOWAES
+    bool "python-slowaes"
+    help
+      AES in pure python. Slow as Christmas, but it works.
